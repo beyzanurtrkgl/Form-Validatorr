@@ -1,0 +1,20 @@
+.card  {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.kenarlik {
+    
+    border:1px solid #e1443bda;
+}
+
+.div{
+    font-size: 14px;
+    color:#e1443bda ;
+}
+
+.color:hover{
+
+    background-color: red;
+    
+}
+
